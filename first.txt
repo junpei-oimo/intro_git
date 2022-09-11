@@ -3,3 +3,4 @@ Gitの使い方
 git add
 git commit
 git rm
+git status
