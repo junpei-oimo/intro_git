@@ -1,2 +1,4 @@
 Gitの使い方
-追記
+基本的なワークフローを学びます。
+git add
+git commit
